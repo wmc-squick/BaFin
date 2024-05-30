@@ -1,0 +1,38 @@
+Name: 			Jonathan Quick
+Geburtsdatum: 	30.12.2016	(Junior)
+Playerid:		4335751
+
+Pokémon: 8
+1 Skwovet SVI 151
+2 Giratina VSTAR LOR 131
+2 Bibarel BRS 121
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+2 Giratina V LOR 130
+2 Bidoof CRZ 111
+1 Spiritomb PAL 89
+
+Trainer: 14
+1 Pokégear 3.0 SVI 186
+1 Vengeful Punch OBF 197
+1 Escape Rope BST 125
+1 Raihan CRZ 140
+4 Judge SVI 176
+3 Nest Ball SVI 181
+2 Capturing Aroma SIT 153
+2 Choice Belt PAL 176
+1 Adventurer's Discovery FST 224
+3 Boss's Orders PAL 172
+3 Path to the Peak CRE 148
+3 Iono PAL 185
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energie: 4
+4 Basic {P} Energy Energy 5
+4 Basic {G} Energy Energy 1
+4 Double Turbo Energy BRS 151
+2 V Guard Energy SIT 169
+
+Karten insgesamt: 60
+
